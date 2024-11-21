@@ -262,7 +262,7 @@ var catData = [
 	{
 		"id": "http://zotero.org/groups/5766292/items/I3A6I8P2",
 		"type": "article-journal",
-		"URL": "./documents/6583006e5f0ba.pdf"
+		"URL": "./documents/6583006e5f0ba.pdf", 
 		"abstract": "Relatively little is known from the sixteenth- and seventeenth-century AD ethnohistorical record about Iroquoian societies in the St Lawrence River Valley compared to the Huron-Wendat in southern Ontario and Haudenosaunee in New York. This is because Iroquoian villagers dispersed from the valley over the course of the sixteenth century. Here we use formal social network analysis to build on understandings of St. Lawrence Iroquoians’ socio-political interactions within and outside of the valley from AD 1400 to 1600. This analysis is based on pottery vessel decorations as signals of female membership in socio-political networks. Results indicate valley-long coalitional networks that became looser at the end of the sixteenth century as St. Lawrence Iroquoians dispersed from the valley.",
 		"shortTitle": "Journal of Historical Network Research",
 		"issue": "8",
