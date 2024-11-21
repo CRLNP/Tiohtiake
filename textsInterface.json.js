@@ -32,8 +32,8 @@ var texts =
         ,
         "welcomeBody":
             {
-                "english": "Reports and publications produced as part of the Tiohtià:ke project, a partnership between the Pointe-à-Callière Museum, the Université de Montréal and the Mohawk Council of Kahnawà:ke",
-                "german": "Rapports et publications produits dans le cadre du projet Tiohtià:ke, partenariat entre le Musée Pointe-à-Callière, l’Université de Montréal et le Conseil Mohawk de Kahnawà:ke"
+                "english": "Reports and publications produced as part of the Tiohtià:ke project, a partnership between Pointe-à-Callière, the Université de Montréal and the Mohawk Council of Kahnawà:ke",
+                "german": "Rapports et publications produits dans le cadre du projet Tiohtià:ke, partenariat entre Pointe-à-Callière, l’Université de Montréal et le Conseil Mohawk de Kahnawà:ke"
             }
         ,
         "searchButton":
