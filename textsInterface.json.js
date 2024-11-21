@@ -8,14 +8,14 @@ var texts =
         ,
         "stiftFlorianTip":
             {
-                "english": "Contact - Université de Montréal",
-                "german": "Contact - Université de Montréal"
+                "english": "Contact - Christian Gates St-Pierre",
+                "german": "Contact - Christian Gates St-Pierre"
             }
         ,
         "digitalOrientalistTip":
             {
-                "english": "Christian Gates St-Pierre",
-                "german": "Christian Gates St-Pierre"
+                "english": "Github",
+                "german": "Github"
             }
         ,
         "flagTip":
