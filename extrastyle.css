@@ -19,16 +19,16 @@
   background: url("GeyerExLibris1.jpg") no-repeat;
   background-size: contain;
   background-repeat: no-repeat;
-  width: 100%;
-  height: 100%;
-  padding-top: 27%; /* (img-height / img-width * container-width) */
+  width: 60%;
+  height: 60%;
+  padding-top: 20%; /* (img-height / img-width * container-width) */
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-position: center;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
 }
 
 .geyerImage:hover {
@@ -36,17 +36,16 @@
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  width: 100%;
-  height: 100%;
-  padding-top: 27%; /* (img-height / img-width * container-width) */
+  width: 60%;
+  height: 60%;
+  padding-top: 20%; /* (img-height / img-width * container-width) */
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
 
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-}
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
 
 #titleCat {
   text-align: left;
